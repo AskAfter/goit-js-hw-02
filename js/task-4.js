@@ -3,7 +3,7 @@ function getShippingCost(country) {
 
   switch (country) {
     case 'China':
-      price = 120;
+      price = 100;
       break;
     case 'Chile':
       price = 250;
